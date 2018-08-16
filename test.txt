@@ -13,3 +13,5 @@ This should go to master
 And this should go to branch1
 
 This has been updated with atom
+
+A multi-file update with atom

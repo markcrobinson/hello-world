@@ -11,3 +11,5 @@ Am I getting the hang of this yet?
 This should go to master
 
 And this should go to branch1
+
+This has been updated with atom
